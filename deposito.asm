@@ -1,4 +1,4 @@
-```asm
+
 ;=========================================================
 ; deposito.asm
 ; ATM Simulator - MASM64
@@ -113,4 +113,4 @@ ErrorCantidad:
 Depositar ENDP
 
 END
-```
+
