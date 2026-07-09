@@ -1,4 +1,4 @@
-```asm
+
 ;=========================================================
 ; retiro.asm
 ; ATM Simulator - MASM64
@@ -170,4 +170,4 @@ ErrorMultiplo:
 Retirar ENDP
 
 END
-```
+
