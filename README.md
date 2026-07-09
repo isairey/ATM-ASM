@@ -1,4 +1,4 @@
-````markdown
+
 # 🏦 ATM ASM
 ### Simulador de Cajero Automático desarrollado en MASM64 (x64 Assembly)
 
@@ -239,24 +239,6 @@ Administrador
 - Máximo de intentos.
 - Múltiplos de 50.
 
----
-
-# 📸 Capturas
-
-```text
-screenshots/
-```
-
-Ejemplo
-
-- Login
-- Menú Principal
-- Consulta
-- Depósito
-- Retiro
-- Transferencia
-- Historial
-- Administrador
 
 ---
 
@@ -328,4 +310,4 @@ Este proyecto se distribuye bajo la licencia **MIT**.
 **Desarrollado con MASM64 y Assembly x64**
 
 </div>
-````
+
