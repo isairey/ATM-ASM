@@ -1,4 +1,4 @@
-```asm
+
 ;=========================================================
 ; historial.asm
 ; ATM Simulator - MASM64
@@ -79,4 +79,4 @@ Continuar:
 MostrarHistorial ENDP
 
 END
-```
+
