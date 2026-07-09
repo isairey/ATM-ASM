@@ -1,4 +1,4 @@
-````markdown
+
 # 🏦 ATM ASM
 ### Simulador de Cajero Automático desarrollado en MASM64 (x64 Assembly)
 
@@ -328,4 +328,4 @@ Este proyecto se distribuye bajo la licencia **MIT**.
 **Desarrollado con MASM64 y Assembly x64**
 
 </div>
-````
+
