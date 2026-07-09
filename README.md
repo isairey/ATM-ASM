@@ -239,24 +239,6 @@ Administrador
 - Máximo de intentos.
 - Múltiplos de 50.
 
----
-
-# 📸 Capturas
-
-```text
-screenshots/
-```
-
-Ejemplo
-
-- Login
-- Menú Principal
-- Consulta
-- Depósito
-- Retiro
-- Transferencia
-- Historial
-- Administrador
 
 ---
 
