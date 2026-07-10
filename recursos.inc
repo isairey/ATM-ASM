@@ -1,4 +1,4 @@
-```asm
+
 ;=========================================================
 ; recursos.inc
 ; ATM Simulator - MASM64
@@ -205,4 +205,4 @@ ERROR_NIP                 EQU 4
 ERROR_ARCHIVO             EQU 5
 
 ENDIF
-```
+
